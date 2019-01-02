@@ -6,7 +6,7 @@ import java.util.Map;
 
 public class MapObject {
 
-        public LinkedHashMap<String,String > modify(LinkedHashMap<String,String>hashMap)
+        public LinkedHashMap<String,String > modifyKey(LinkedHashMap<String,String>hashMap)
         {
             Iterator hmIterator = hashMap.entrySet().iterator();
             Map.Entry mapElement = (Map.Entry)hmIterator.next();

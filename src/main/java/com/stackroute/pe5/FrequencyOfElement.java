@@ -3,7 +3,7 @@ package com.stackroute.pe5;
 import java.util.HashMap;
 
 public class FrequencyOfElement {
-    public HashMap<String,Integer> frequencyOfElement(String input) {
+    public HashMap<String,Integer> frequencyCalculation(String input) {
         String[] arr = input.split("[., ?-@*]");
         HashMap<String, Integer> hm = new HashMap<String, Integer>();
         for (int i=0;i<arr.length;i++) {

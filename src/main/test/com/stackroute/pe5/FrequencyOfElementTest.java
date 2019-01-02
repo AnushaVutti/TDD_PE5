@@ -15,7 +15,7 @@ public class FrequencyOfElementTest {
         output.put("one",5);
         output.put("two",2);
         output.put("three",2);
-        assertEquals(output,frequency.frequencyOfElement(input));
+        assertEquals(output,frequency.frequencyCalculation(input));
     }
     @Test
     public void checkFailure() {
@@ -24,13 +24,13 @@ public class FrequencyOfElementTest {
         output.put("one",5);
         output.put("two",2);
         output.put("three",2);
-        assertEquals(output,frequency.frequencyOfElement(input));
+        assertEquals(output,frequency.frequencyCalculation(input));
     }
     @Test
     public void checkNotNull() {
         String input = "one one one.two,three,one@three*one?two";
         HashMap<String,Integer> output = new HashMap<String, Integer>();
-        assertNotNull(frequency.frequencyOfElement(input));
+        assertNotNull(frequency.frequencyCalculation(input));
     }
 
 }

@@ -14,20 +14,20 @@ public class MapObjectTest {
         LinkedHashMap<String ,String> hashMap=new LinkedHashMap<>();
         hashMap.put("val1","java");
         hashMap.put("val2","c++");
-        HashMap<String ,String> res=new HashMap<>();
-        res.put("val1"," ");
-        res.put("val2","java");
-        assertEquals(res,map.modify(hashMap));
+        HashMap<String ,String> result=new HashMap<>();
+        result.put("val1"," ");
+        result.put("val2","java");
+        assertEquals(result,map.modifyKey(hashMap));
     }
     @Test
     public void modifyFailure() {
         LinkedHashMap<String ,String> hashMap=new LinkedHashMap<>();
         hashMap.put("val1","java");
         hashMap.put("val2","c++");
-        HashMap<String ,String> res=new HashMap<>();
-        res.put("val1"," ");
-        res.put("val2","c++");
-        assertNotSame(res,map.modify(hashMap));
+        HashMap<String ,String> result=new HashMap<>();
+        result.put("val1"," ");
+        result.put("val2","c++");
+        assertNotSame(result,map.modifyKey(hashMap));
     }
 
     @Test
@@ -35,7 +35,7 @@ public class MapObjectTest {
         LinkedHashMap<String ,String> hashMap=new LinkedHashMap<>();
         hashMap.put("val1","java");
         hashMap.put("val2","c++");
-        assertNotNull("Error",map.modify(hashMap));
+        assertNotNull("Error",map.modifyKey(hashMap));
     }
 
 }

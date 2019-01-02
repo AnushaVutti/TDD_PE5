@@ -10,33 +10,39 @@ public class StudentClass {
     private String name;
 
     public int getId() {
+
         return id;
     }
 
     public void setId(int id) {
+
         this.id = id;
     }
 
     public int getAge() {
+
         return age;
     }
 
     public void setAge(int age) {
+
         this.age = age;
     }
 
     public String getName() {
+
         return name;
     }
 
     public void setName(String name) {
+
         this.name = name;
     }
-    public StudentClass(int a,int b,String str)
+    public StudentClass(int id,int age,String name)
     {
-        this.id=a;
-        this.age=b;
-        this.name=str;
+        this.id=id;
+        this.age=age;
+        this.name=name;
     }
     public String toString()
     {
@@ -46,30 +52,28 @@ public class StudentClass {
 }
 class Sortbyroll implements Comparator<StudentClass>
 {
-    // Used for sorting in ascending order of
-    // roll number
-    public int compare(StudentClass a, StudentClass b)
+
+    public int compare(StudentClass first, StudentClass second)
     {
-        if(a.getAge()!=b.getAge())
-            return a.getAge() - b.getAge();
+        if(first.getAge()!=second.getAge())
+            return first.getAge() - second.getAge();
         else
         {
-            return a.getName().compareTo(b.getName());
+            return first.getName().compareTo(second.getName());
         }
     }
 }
-class Maintest
+class Driver
 {
-    public  static ArrayList<StudentClass> Sortstudent(ArrayList<StudentClass>arr)
+    public  static ArrayList<StudentClass> sortStudent(ArrayList<StudentClass>array)
     {
-        Collections.sort(arr,new Sortbyroll());
-        return  arr;
+        Collections.sort(array,new Sortbyroll());
+        return  array;
     }
     public static void main (String[] args)
     {
         ArrayList<StudentClass>arr=new ArrayList<StudentClass>();
-        arr.add(new StudentClass(150,18,"Keshav"));
-        arr.add(new StudentClass(120,15,"Kumar"));
+        arr.add(new StudentClass(150,18,"Anusha"));
         arr.add(new StudentClass(130,16,"Rahul"));
         arr.add(new StudentClass(140,16,"Mukul"));
         arr.add(new StudentClass(140,16,"Joe"));
@@ -82,8 +86,8 @@ class Maintest
         while (custIterator.hasNext()) {
             System.out.println(custIterator.next());
         }
-        // Collections.sort(arr,new Sortbyroll());
-        ArrayList<StudentClass>res =Sortstudent(arr);
+
+        ArrayList<StudentClass>result =sortStudent(arr);
 
         Iterator<StudentClass> custIterator1 = arr.iterator();
 

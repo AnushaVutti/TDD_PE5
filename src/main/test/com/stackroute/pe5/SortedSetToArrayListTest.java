@@ -25,7 +25,7 @@ public class SortedSetToArrayListTest {
         output.add("Eugene");
         output.add("Harry");
         output.add("Olive");
-        assertEquals(output,list.sortedSetToArrayListTest(input));
+        assertEquals(output,list.sortedSet(input));
     }
     @Test
     public void checkFailure(){
@@ -41,7 +41,7 @@ public class SortedSetToArrayListTest {
         output.add("Eugene");
         output.add("Harry");
         output.add("Green");
-        assertNotSame(output,list.sortedSetToArrayListTest(input));
+        assertNotSame(output,list.sortedSet(input));
     }
     @Test
     public void checkNotNull(){
@@ -51,7 +51,7 @@ public class SortedSetToArrayListTest {
         input.add("Alice");
         input.add("Bluto");
         input.add("Eugene");
-        assertNotNull(list.sortedSetToArrayListTest(input));
+        assertNotNull(list.sortedSet(input));
     }
 
 

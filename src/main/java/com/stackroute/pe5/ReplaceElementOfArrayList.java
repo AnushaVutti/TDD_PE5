@@ -4,7 +4,7 @@ import java.util.ArrayList;
 
 public class ReplaceElementOfArrayList {
 
-    public ArrayList<String> replaceElementOfArrayList(ArrayList<String> original,int index,String newString) {
+    public ArrayList<String> replaceElement(ArrayList<String> original,int index,String newString) {
         original.set(index,"Kiwi");
         System.out.println("Arraylist after replacing : " + original);
         return original;

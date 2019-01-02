@@ -20,7 +20,7 @@ public class ReplaceElementOfArrayListTest {
         output.add("Grape");
         output.add("Melon");
         output.add("Berry");
-        assertEquals(output,replace.replaceElementOfArrayList(input,0,"Kiwi"));
+        assertEquals(output,replace.replaceElement(input,0,"Kiwi"));
     }
     @Test
     public void replacearrayListElementcheckFailure() {
@@ -34,7 +34,7 @@ public class ReplaceElementOfArrayListTest {
         output.add("Apple");
         output.add("Melon");
         output.add("Berry");
-        assertNotSame(output,replace.replaceElementOfArrayList(input,0,"Kiwi"));
+        assertNotSame(output,replace.replaceElement(input,0,"Kiwi"));
     }
     @Test
     public void replacearrayListElementcheckNotNull() {
@@ -43,7 +43,7 @@ public class ReplaceElementOfArrayListTest {
         input.add("Grape");
         input.add("Melon");
         input.add("Berry");
-        assertNotNull(replace.replaceElementOfArrayList(input,0,"Kiwi"));
+        assertNotNull(replace.replaceElement(input,0,"Kiwi"));
     }
     @Test
     public void clearElementNull() {
