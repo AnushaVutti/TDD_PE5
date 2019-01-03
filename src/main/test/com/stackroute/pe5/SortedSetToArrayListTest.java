@@ -1,57 +1,46 @@
 package com.stackroute.pe5;
 
+import org.junit.After;
+import org.junit.Before;
 import org.junit.Test;
 
-import java.util.ArrayList;
-import java.util.HashSet;
-import java.util.Set;
-import java.util.TreeSet;
+import java.util.*;
 
 import static org.junit.Assert.*;
 
 public class SortedSetToArrayListTest {
-    private SortedSetToArrayList list = new SortedSetToArrayList();
+    private SortedSetToArrayList list;
+
+    @Before
+    public void setUp() throws Exception {
+        list = new SortedSetToArrayList();
+    }
+
+    @After
+    public void tearDown() throws Exception {
+        list=null;
+    }
     @Test
     public void checkSuccess(){
-        ArrayList<String> input = new ArrayList<>();
-        input.add("Harry");
-        input.add("Olive");
-        input.add("Alice");
-        input.add("Bluto");
-        input.add("Eugene");
-        ArrayList<String> output = new ArrayList<>();
-        output.add("Alice");
-        output.add("Bluto");
-        output.add("Eugene");
-        output.add("Harry");
-        output.add("Olive");
+        ArrayList<String> input= new ArrayList<String>(Arrays.asList(new String[]{"Harry", "Bluto", "Eugene","Alice","Olive"}));
+        ArrayList<String> output= new ArrayList<String>(Arrays.asList(new String[]{"Alice", "Bluto", "Eugene","Harry","Olive"}));
         assertEquals(output,list.sortedSet(input));
     }
     @Test
     public void checkFailure(){
-        ArrayList<String> input = new ArrayList<>();
-        input.add("Harry");
-        input.add("Olive");
-        input.add("Alice");
-        input.add("Bluto");
-        input.add("Eugene");
-        ArrayList<String> output = new ArrayList<>();
-        output.add("Alice");
-        output.add("Bluto");
-        output.add("Eugene");
-        output.add("Harry");
-        output.add("Green");
+        ArrayList<String> input= new ArrayList<String>(Arrays.asList(new String[]{"Harry", "Bluto", "Eugene","Alice","Olive"}));
+        ArrayList<String> output= new ArrayList<String>(Arrays.asList(new String[]{"Alice", "Bluto", "Eugene","Olive","Harry"}));
         assertNotSame(output,list.sortedSet(input));
     }
     @Test
     public void checkNotNull(){
-        ArrayList<String> input = new ArrayList<>();
-        input.add("Harry");
-        input.add("Olive");
-        input.add("Alice");
-        input.add("Bluto");
-        input.add("Eugene");
+        ArrayList<String> input= new ArrayList<String>(Arrays.asList(new String[]{"Harry", "Bluto", "Eugene","Alice","Olive"}));
         assertNotNull(list.sortedSet(input));
+    }
+    @Test
+    public void checkNull(){
+        ArrayList<String> input = new ArrayList<String>(Arrays.asList(new String[]{}));
+        assertNull(list.sortedSet(input));
     }
 
 

@@ -7,6 +7,9 @@ import java.util.TreeSet;
 public class SortedSetToArrayList {
 
     public ArrayList<String> sortedSet(ArrayList<String> input) {
+        if (input.size()==0)
+            return null;
+
         Set<String>inputSet = new TreeSet<>(input);
         for (String item : inputSet ) {
             System.out.print(item + " ");

@@ -1,5 +1,7 @@
 package com.stackroute.pe5;
 
+import org.junit.After;
+import org.junit.Before;
 import org.junit.Test;
 
 import java.util.HashMap;
@@ -7,43 +9,51 @@ import java.util.HashMap;
 import static org.junit.Assert.*;
 
 public class BooleanMapTest {
-    private BooleanMap booleanMap = new BooleanMap();
-    @Test
-    public void arr_map() {
+    private BooleanMap booleanMap;
 
-        String  arr[] = {"a","b","c","d","a","c","c"};
+    @Before
+    public void setUp() throws Exception {
+        booleanMap = new BooleanMap();
+    }
+
+    @After
+    public void tearDown() throws Exception {
+        booleanMap=null;
+    }
+
+    @Test
+    public void arrayMapSuccess() {
+
+        String  input[] = {"a","b","a","d","a","d","c"};
         HashMap<String, Boolean> hashMap = new HashMap<>();
         hashMap.put("a",true);
         hashMap.put("b",false);
-        hashMap.put("c",true);
-        hashMap.put("d",false);
-        assertEquals("Error",hashMap,booleanMap.arrMap(arr));
-    }
-    @Test
-    public void arr_map1() {
-        String  arr[] = {"a","b","c","e","a","c","c","d"};
-        HashMap<String, Boolean> hashMap = new HashMap<>();
-        hashMap.put("a",true);
-        hashMap.put("b",false);
-        hashMap.put("c",true);
-        hashMap.put("d",false);
-        hashMap.put("e",false);
-        assertEquals("Error",hashMap,booleanMap.arrMap(arr));
-    }
-    @Test
-    public void arr_map2() {
-        String  arr[] = {"a","a","a","b","b","b","b","b","c"};
-        HashMap<String, Boolean> hashMap = new HashMap<>();
-        hashMap.put("a",true);
-        hashMap.put("b",true);
         hashMap.put("c",false);
-
-        assertEquals("Error",hashMap,booleanMap.arrMap(arr));
+        hashMap.put("d",true);
+        assertEquals(hashMap,booleanMap.arrMap(input));
     }
     @Test
-    public void arr_mapFailure() {
-        String  arr[] = {"a","a","a","b","b","b","b","b","c"};
-        assertNotNull("Error",booleanMap.arrMap(arr));
+    public void arrayMapFailure() {
+        String  input[] = {"a","b","e","e","a","c","d","d"};
+        HashMap<String, Boolean> hashMap = new HashMap<>();
+        hashMap.put("a",true);
+        hashMap.put("b",false);
+        hashMap.put("c",true);
+        hashMap.put("d",false);
+        hashMap.put("e",true);
+        assertNotSame(hashMap,booleanMap.arrMap(input));
+    }
+    @Test
+    public void arrayMapNull() {
+        String  input[] = {};
+        assertNull(booleanMap.arrMap(input));
+
+    }
+    @Test
+    public void arrayMapNotNull() {
+        String  input[] = {"a","b","e","e","a","c","d","d"};
+        assertNotNull(booleanMap.arrMap(input));
+
     }
 
 }

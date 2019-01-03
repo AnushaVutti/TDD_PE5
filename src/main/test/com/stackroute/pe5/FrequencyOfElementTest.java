@@ -1,5 +1,7 @@
 package com.stackroute.pe5;
 
+import org.junit.After;
+import org.junit.Before;
 import org.junit.Test;
 
 import java.util.HashMap;
@@ -7,7 +9,18 @@ import java.util.HashMap;
 import static org.junit.Assert.*;
 
 public class FrequencyOfElementTest {
-    private FrequencyOfElement frequency = new FrequencyOfElement();
+    private FrequencyOfElement frequency;
+
+    @Before
+    public void setUp() throws Exception {
+       frequency = new FrequencyOfElement();
+    }
+
+    @After
+    public void tearDown() throws Exception {
+        frequency = null;
+    }
+
     @Test
     public void checkSuccess() {
         String input = "one one one.two,three,one@three*one?two";
@@ -31,6 +44,12 @@ public class FrequencyOfElementTest {
         String input = "one one one.two,three,one@three*one?two";
         HashMap<String,Integer> output = new HashMap<String, Integer>();
         assertNotNull(frequency.frequencyCalculation(input));
+    }
+    @Test
+    public void checkNull() {
+        String input=new String();
+        HashMap<String,Integer> output = new HashMap<String, Integer>();
+        assertNull(frequency.frequencyCalculation(input));
     }
 
 }

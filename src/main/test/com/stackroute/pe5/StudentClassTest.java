@@ -10,8 +10,17 @@ import java.util.ArrayList;
 
 public class StudentClassTest{
 
+    private Driver driver;
 
-      private Driver driver=new Driver();
+    @Before
+    public void setUp() throws Exception {
+        driver = new Driver();
+    }
+
+    @After
+    public void tearDown() throws Exception {
+        driver=null;
+    }
 
         @Test
         public void sortstudentSuccess() {

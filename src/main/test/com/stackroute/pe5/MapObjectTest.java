@@ -1,5 +1,7 @@
 package com.stackroute.pe5;
 
+import org.junit.After;
+import org.junit.Before;
 import org.junit.Test;
 
 import java.util.HashMap;
@@ -8,7 +10,18 @@ import java.util.LinkedHashMap;
 import static org.junit.Assert.*;
 
 public class MapObjectTest {
-    private MapObject map = new MapObject();
+    private MapObject map;
+
+    @Before
+    public void setUp() throws Exception {
+        map = new MapObject();
+    }
+
+    @After
+    public void tearDown() throws Exception {
+        map=null;
+    }
+
     @Test
     public void modifySuccess() {
         LinkedHashMap<String ,String> hashMap=new LinkedHashMap<>();
@@ -31,11 +44,16 @@ public class MapObjectTest {
     }
 
     @Test
-    public void modifyNotNUll() {
+    public void modifyNotNull() {
         LinkedHashMap<String ,String> hashMap=new LinkedHashMap<>();
         hashMap.put("val1","java");
         hashMap.put("val2","c++");
-        assertNotNull("Error",map.modifyKey(hashMap));
+        assertNotNull(map.modifyKey(hashMap));
+    }
+    @Test
+    public void modifyNull() {
+        LinkedHashMap<String ,String> hashMap=new LinkedHashMap<>();
+        assertNull(map.modifyKey(hashMap));
     }
 
 }

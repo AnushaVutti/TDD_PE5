@@ -3,6 +3,30 @@
   <component name="ChangeListManager">
     <list default="true" id="6bb11fb1-bf9c-411f-b97c-1279a6a48e44" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TDD_PE5/com/stackroute/pe5/BooleanMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TDD_PE5/com/stackroute/pe5/BooleanMap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TDD_PE5/com/stackroute/pe5/Driver.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TDD_PE5/com/stackroute/pe5/Driver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TDD_PE5/com/stackroute/pe5/FrequencyOfElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TDD_PE5/com/stackroute/pe5/FrequencyOfElement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TDD_PE5/com/stackroute/pe5/MapObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TDD_PE5/com/stackroute/pe5/MapObject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TDD_PE5/com/stackroute/pe5/ReplaceElementOfArrayList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TDD_PE5/com/stackroute/pe5/ReplaceElementOfArrayList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TDD_PE5/com/stackroute/pe5/SortedSetToArrayList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TDD_PE5/com/stackroute/pe5/SortedSetToArrayList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/TDD_PE5/com/stackroute/pe5/BooleanMapTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/TDD_PE5/com/stackroute/pe5/BooleanMapTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/TDD_PE5/com/stackroute/pe5/FrequencyOfElementTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/TDD_PE5/com/stackroute/pe5/FrequencyOfElementTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/TDD_PE5/com/stackroute/pe5/MapObjectTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/TDD_PE5/com/stackroute/pe5/MapObjectTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/TDD_PE5/com/stackroute/pe5/ReplaceElementOfArrayListTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/TDD_PE5/com/stackroute/pe5/ReplaceElementOfArrayListTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/TDD_PE5/com/stackroute/pe5/SortedSetToArrayListTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/TDD_PE5/com/stackroute/pe5/SortedSetToArrayListTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/TDD_PE5/com/stackroute/pe5/StudentClassTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/TDD_PE5/com/stackroute/pe5/StudentClassTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/pe5/BooleanMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe5/BooleanMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/pe5/FrequencyOfElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe5/FrequencyOfElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/pe5/MapObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe5/MapObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/pe5/ReplaceElementOfArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe5/ReplaceElementOfArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/pe5/SortedSetToArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe5/SortedSetToArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/pe5/StudentClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe5/StudentClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/com/stackroute/pe5/BooleanMapTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/pe5/BooleanMapTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/com/stackroute/pe5/FrequencyOfElementTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/pe5/FrequencyOfElementTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/com/stackroute/pe5/MapObjectTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/pe5/MapObjectTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/com/stackroute/pe5/ReplaceElementOfArrayListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/pe5/ReplaceElementOfArrayListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/com/stackroute/pe5/SortedSetToArrayListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/pe5/SortedSetToArrayListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/com/stackroute/pe5/StudentClassTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/pe5/StudentClassTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,11 +37,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe5/SortedSetToArrayList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="38" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
+            <state relative-caret-position="102">
+              <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -28,26 +52,38 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe5/BooleanMap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="254">
-              <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+            <state relative-caret-position="120">
+              <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe5/FrequencyOfElement.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe5/ReplaceElementOfArrayList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe5/SortByRoll.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
-              <caret line="5" column="55" selection-start-line="5" selection-start-column="55" selection-end-line="5" selection-end-column="55" />
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe5/MapObject.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/pe5/StudentClassTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="54" selection-start-line="8" selection-start-column="54" selection-end-line="8" selection-end-column="54" />
+            <state relative-caret-position="315">
+              <caret line="21" column="14" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -56,10 +92,38 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe5/ReplaceElementOfArrayList.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe5/Driver.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="43" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
+            <state relative-caret-position="72">
+              <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/pe5/ReplaceElementOfArrayListTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="49" column="9" lean-forward="true" selection-start-line="49" selection-start-column="9" selection-end-line="49" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1611#1619#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe5/StudentClass.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-115">
+              <caret line="53" selection-start-line="53" selection-end-line="53" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -69,8 +133,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JUnit4 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -82,18 +146,22 @@
       <list>
         <option value="$PROJECT_DIR$/src/main/test/com/stackroute/pe5/ArrayListTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe5/MainTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe5/SortedSetToArrayList.java" />
-        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/pe5/SortedSetToArrayListTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe5/BooleanMap.java" />
-        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/pe5/BooleanMapTest.java" />
-        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/pe5/StudentClassTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe5/StudentClass.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe5/FrequencyOfElement.java" />
-        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/pe5/FrequencyOfElementTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe5/ReplaceElementOfArrayList.java" />
-        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/pe5/ReplaceElementOfArrayListTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe5/MapObject.java" />
         <option value="$PROJECT_DIR$/src/main/test/com/stackroute/pe5/MapObjectTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe5/FrequencyOfElement.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/pe5/FrequencyOfElementTest.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/pe5/BooleanMapTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe5/SortedSetToArrayList.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe5/BooleanMap.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe5/ReplaceElementOfArrayList.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/pe5/ReplaceElementOfArrayListTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe5/S.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe5/xyz.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe5/StudentClass.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/pe5/StudentClassTest.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/pe5/SortedSetToArrayListTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe5/SortByRoll.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe5/Driver.java" />
       </list>
     </option>
   </component>
@@ -109,6 +177,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -147,15 +217,6 @@
               <item name="TDD_PE5" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="pe5" type="462c0819:PsiDirectoryNode" />
-              <item name="StudentClass.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="TDD_PE5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TDD_PE5" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -170,12 +231,10 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546437743305" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546497231706" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$USER_HOME$/Downloads/hamcrest-core-1.3.jar!/" />
@@ -203,7 +262,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.MapObjectTest">
+  <component name="RunManager" selected="JUnit.StudentClassTest">
     <configuration name="FrequencyOfElementTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="TDD_PE5" />
       <extension name="coverage">
@@ -246,6 +305,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SortedSetToArrayListTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TDD_PE5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.pe5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stackroute.pe5" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.pe5.SortedSetToArrayListTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="StudentClassTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="TDD_PE5" />
       <extension name="coverage">
@@ -260,29 +333,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudentClassTest.sortstudent" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="TDD_PE5" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.stackroute.pe5.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.stackroute.pe5" />
-      <option name="MAIN_CLASS_NAME" value="com.stackroute.pe5.StudentClassTest" />
-      <option name="METHOD_NAME" value="sortstudent" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.StudentClassTest" />
+        <item itemvalue="JUnit.SortedSetToArrayListTest" />
         <item itemvalue="JUnit.MapObjectTest" />
         <item itemvalue="JUnit.ReplaceElementOfArrayListTest" />
         <item itemvalue="JUnit.FrequencyOfElementTest" />
-        <item itemvalue="JUnit.StudentClassTest" />
-        <item itemvalue="JUnit.StudentClassTest.sortstudent" />
       </list>
     </recent_temporary>
   </component>
@@ -300,41 +357,42 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="BooleanMapTest - 2019.01.02 at 19h 06m 07s.xml">
+    <history-entry file="StudentClassTest_sortstudentNull - 2019.01.03 at 11h 40m 49s.xml">
+      <configuration name="StudentClassTest.sortstudentNull" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StudentClassTest_sortstudentNull - 2019.01.03 at 11h 45m 36s.xml">
+      <configuration name="StudentClassTest.sortstudentNull" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StudentClassTest_sortstudentNull - 2019.01.03 at 11h 47m 15s.xml">
+      <configuration name="StudentClassTest.sortstudentNull" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StudentClassTest_sortstudentNull - 2019.01.03 at 11h 47m 42s.xml">
+      <configuration name="StudentClassTest.sortstudentNull" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StudentClassTest - 2019.01.03 at 11h 49m 43s.xml">
+      <configuration name="StudentClassTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BooleanMapTest - 2019.01.03 at 11h 50m 24s.xml">
       <configuration name="BooleanMapTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StudentClassTest - 2019.01.02 at 19h 13m 19s.xml">
-      <configuration name="StudentClassTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="StudentClassTest_sortstudent - 2019.01.02 at 19h 14m 07s.xml">
-      <configuration name="StudentClassTest.sortstudent" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="StudentClassTest_sortstudent - 2019.01.02 at 19h 14m 53s.xml">
-      <configuration name="StudentClassTest.sortstudent" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="StudentClassTest - 2019.01.02 at 19h 17m 57s.xml">
-      <configuration name="StudentClassTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="StudentClassTest - 2019.01.02 at 19h 23m 38s.xml">
-      <configuration name="StudentClassTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FrequencyOfElementTest - 2019.01.02 at 19h 24m 47s.xml">
+    <history-entry file="FrequencyOfElementTest - 2019.01.03 at 11h 50m 34s.xml">
       <configuration name="FrequencyOfElementTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ReplaceElementOfArrayListTest - 2019.01.02 at 19h 25m 27s.xml">
+    <history-entry file="ReplaceElementOfArrayListTest - 2019.01.03 at 11h 50m 45s.xml">
       <configuration name="ReplaceElementOfArrayListTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MapObjectTest - 2019.01.02 at 19h 29m 30s.xml">
+    <history-entry file="MapObjectTest - 2019.01.03 at 11h 50m 50s.xml">
       <configuration name="MapObjectTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MapObjectTest - 2019.01.02 at 19h 30m 16s.xml">
-      <configuration name="MapObjectTest" configurationId="JUnit" />
+    <history-entry file="SortedSetToArrayListTest - 2019.01.03 at 11h 51m 05s.xml">
+      <configuration name="SortedSetToArrayListTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25379092" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25778133" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -343,8 +401,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32954547" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32899022" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39935064" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32899022" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39739415" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -361,6 +419,34 @@
       <window_info anchor="right" id="Maven" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25778133" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32954547" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32899022" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39935064" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32899022" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout-to-restore>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -368,10 +454,22 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/com/stackroute/pe5/BooleanMap.java</url>
           <line>5</line>
-          <properties class="com.stackroute.pe5.BooleanMap" method="arr_map">
+          <properties class="com.stackroute.pe5.BooleanMap" method="arrMap">
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/stackroute/pe5/ReplaceElementOfArrayList.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/test/com/stackroute/pe5/ReplaceElementOfArrayListTest.java</url>
+          <line>40</line>
+          <properties />
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -380,67 +478,51 @@
     <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/pe5/ArrayListTest.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe5/MainTest.java" />
     <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/pe5/MainTestTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/pe5/SortedSetToArrayListTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe5/FrequencyOfElement.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="795">
-          <caret line="53" column="36" selection-start-line="53" selection-start-column="36" selection-end-line="53" selection-end-column="36" />
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe5/S.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe5/xyz.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Downloads/junit4.jar!/org/junit/internal/runners/TestMethodRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="95" selection-start-line="95" selection-end-line="95" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/pe5/BooleanMapTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="40" column="36" selection-start-line="40" selection-start-column="36" selection-end-line="40" selection-end-column="36" />
+        <state relative-caret-position="705">
+          <caret line="47" column="28" selection-start-line="47" selection-start-column="28" selection-end-line="47" selection-end-column="28" />
           <folding>
             <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/pe5/StudentClassTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="31" selection-start-line="29" selection-start-column="31" selection-end-line="29" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#695#709#0" expanded="true" />
-            <element signature="e#1497#1511#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe5/StudentClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="915">
-          <caret line="61" column="51" selection-start-line="61" selection-start-column="51" selection-end-line="61" selection-end-column="51" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/pe5/ReplaceElementOfArrayListTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="50" selection-start-line="22" selection-start-column="50" selection-end-line="22" selection-end-column="50" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#356#364#0" expanded="true" />
-            <element signature="e#854#862#0" expanded="true" />
-            <element signature="e#1026#1034#0" expanded="true" />
-            <element signature="e#1353#1361#0" expanded="true" />
-            <element signature="e#1651#1659#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/pe5/FrequencyOfElementTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" column="53" selection-start-line="32" selection-start-column="53" selection-end-line="32" selection-end-column="53" />
+        <state relative-caret-position="165">
+          <caret line="11" column="8" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -449,32 +531,51 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/pe5/MapObjectTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="28" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="28" />
+        <state relative-caret-position="330">
+          <caret line="22" column="5" lean-forward="true" selection-start-line="14" selection-start-column="3" selection-end-line="22" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe5/BooleanMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="254">
-          <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe5/FrequencyOfElement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="55" selection-start-line="5" selection-start-column="55" selection-end-line="5" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe5/MapObject.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-75">
+          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/pe5/SortedSetToArrayListTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#710#718#0" expanded="true" />
+            <element signature="e#642#650#0" expanded="true" />
+            <element signature="e#872#880#0" expanded="true" />
+            <element signature="e#1002#1010#0" expanded="true" />
+            <element signature="e#1231#1239#0" expanded="true" />
+            <element signature="e#1452#1460#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe5/BooleanMap.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="8" column="54" selection-start-line="8" selection-start-column="54" selection-end-line="8" selection-end-column="54" />
+          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe5/SortedSetToArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -483,15 +584,56 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe5/ReplaceElementOfArrayList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="43" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
+        <state relative-caret-position="150">
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe5/SortedSetToArrayList.java">
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/pe5/ReplaceElementOfArrayListTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="38" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
+        <state relative-caret-position="240">
+          <caret line="49" column="9" lean-forward="true" selection-start-line="49" selection-start-column="9" selection-end-line="49" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1611#1619#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe5/StudentClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-115">
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe5/SortByRoll.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe5/Driver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/pe5/StudentClassTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="14" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -555,6 +697,7 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>

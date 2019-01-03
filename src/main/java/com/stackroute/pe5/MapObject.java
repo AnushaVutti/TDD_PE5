@@ -6,8 +6,11 @@ import java.util.Map;
 
 public class MapObject {
 
-        public LinkedHashMap<String,String > modifyKey(LinkedHashMap<String,String>hashMap)
+        public LinkedHashMap<String,String > modifyKey(LinkedHashMap<String,String> hashMap)
         {
+            if (hashMap.size()==0)
+            return null;
+
             Iterator hmIterator = hashMap.entrySet().iterator();
             Map.Entry mapElement = (Map.Entry)hmIterator.next();
             String key1=(String)mapElement.getKey();
@@ -24,6 +27,7 @@ public class MapObject {
                 hashMap.put(key2,value2);
 
             }
+            System.out.println(hashMap);
             return hashMap;
 
 

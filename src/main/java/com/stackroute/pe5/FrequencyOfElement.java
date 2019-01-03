@@ -4,6 +4,10 @@ import java.util.HashMap;
 
 public class FrequencyOfElement {
     public HashMap<String,Integer> frequencyCalculation(String input) {
+
+        if(input.length()==0)
+            return null;
+
         String[] arr = input.split("[., ?-@*]");
         HashMap<String, Integer> hm = new HashMap<String, Integer>();
         for (int i=0;i<arr.length;i++) {
